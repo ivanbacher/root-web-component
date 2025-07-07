@@ -1,0 +1,6 @@
+component-two {
+  .local-style {
+    text-decoration: dotted;
+    color: cadetblue;
+  }
+}
